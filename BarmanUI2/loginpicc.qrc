@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Bienvenidos.png</file>
+        <file>bg_barmanautomatico.png</file>
+        <file>selectTrag.png</file>
+    </qresource>
+</RCC>
