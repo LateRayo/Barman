@@ -26,6 +26,7 @@ This repository contains the source code and documentation for the Autonomous Be
 
 ### Backend Communication
 - **API**: The hardware communicates with the database via an HTTP API.
+  
   Page to get esp32 firmware and manual: https://docs.espressif.com/projects/esp-at/en/release-v2.2.0.0_esp8266/index.html
   - **Functions**: Handles order requests and deletions.
 
