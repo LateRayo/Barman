@@ -1,0 +1,31 @@
+../src/RFID/rc522.cpp:35:6:void convert_to_hex_format(const uint8_t*, uint8_t*)	24	static
+../src/RFID/rc522.cpp:47:9:uint8_t showSerialNumber(uint8_t*)	72	static
+../src/RFID/rc522.cpp:90:6:void setup()	8	static
+../src/RFID/rc522.cpp:100:6:void MFRC522_Init()	8	static
+../src/RFID/rc522.cpp:121:6:void MFRC522_Reset()	8	static
+../src/RFID/rc522.cpp:129:6:void AntennaOn()	24	static
+../src/RFID/rc522.cpp:142:6:void SetBitMask(uint8_t, uint8_t)	32	static
+../src/RFID/rc522.cpp:152:6:void ClearBitMask(uint8_t, uint8_t)	32	static
+../src/RFID/rc522.cpp:162:6:void Write_MFRC522(uint8_t, uint8_t)	16	static
+../src/RFID/rc522.cpp:174:9:uint8_t Read_MFRC522(uint8_t)	32	static
+../src/RFID/rc522.cpp:191:6:void delay1s()	8	static
+../src/RFID/rc522.cpp:200:9:uint8_t MFRC522_Anticoll(uint8_t*)	40	static
+../src/RFID/rc522.cpp:236:9:uint8_t MFRC522_ToCard(uint8_t, uint8_t*, uint8_t, uint8_t*, uint32_t*)	48	static
+../src/RFID/rc522.cpp:333:6:void MFRC522_Halt()	40	static
+../src/RFID/rc522.cpp:352:6:void CalulateCRC(uint8_t*, uint8_t, uint8_t*)	40	static
+../src/RFID/rc522.cpp:384:9:uint8_t MFRC522_Request(uint8_t, uint8_t*)	40	static
+../src/RFID/rc522.cpp:400:6:void beepOkWrite()	8	static
+../src/RFID/rc522.cpp:406:6:void beepOk()	8	static
+../src/RFID/rc522.cpp:411:6:void beepNok()	8	static
+../src/RFID/rc522.cpp:420:8:int8_t writeTagBlockMemory()	96	static
+../src/RFID/rc522.cpp:637:9:uint8_t MFRC522_SelectTag(uint8_t*)	64	static
+../src/RFID/rc522.cpp:667:6:void writeTagBlockData(int32_t, uint8_t*)	56	static
+../src/RFID/rc522.cpp:686:9:uint8_t MFRC522_Auth(uint8_t, uint8_t, uint8_t*, uint8_t*)	64	static
+../src/RFID/rc522.cpp:716:9:uint8_t MFRC522_Write(uint8_t, uint8_t*)	72	static
+../src/RFID/rc522.cpp:749:9:uint8_t MFRC522_Read(uint8_t, uint8_t*)	40	static
+../src/RFID/rc522.cpp:767:6:void readDataHEX()	56	static
+../src/RFID/rc522.cpp:898:6:void readDataASCII()	96	static
+../src/RFID/rc522.cpp:949:8:int8_t readDataASCIIsectorBlock(uint8_t, uint8_t, uint8_t)	96	static
+../src/RFID/rc522.cpp:1001:6:void sendToSerialASCII(int32_t, int32_t, uint8_t, uint8_t*)	64	static
+../src/RFID/rc522.cpp:1022:6:void sendToSerialHEX(int32_t, uint8_t, uint8_t*)	200	static
+../src/RFID/rc522.cpp:1038:6:void InitRC522()	8	static

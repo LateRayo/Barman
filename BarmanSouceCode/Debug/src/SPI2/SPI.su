@@ -1,0 +1,22 @@
+../src/SPI2/SPI.cpp:31:6:void SPI_MEMORIA_Inicializacion()	16	static
+../src/SPI2/SPI.cpp:73:6:void SPI_HW_Enable()	8	static
+../src/SPI2/SPI.cpp:79:6:void SPI_HW_Disable()	8	static
+../src/SPI2/SPI.cpp:85:6:void SPI_WRITE_Enable()	8	static
+../src/SPI2/SPI.cpp:94:6:void SPI_WRITE_Disable()	8	static
+../src/SPI2/SPI.cpp:105:6:void SPI_HW_Write(uint8_t)	24	static
+../src/SPI2/SPI.cpp:129:9:uint8_t SPI_HW_Read()	16	static
+../src/SPI2/SPI.cpp:154:6:void SPI_Demora(uint32_t)	24	static
+../src/SPI2/SPI.cpp:161:6:void SPI_Borrar_Sector(uint32_t)	16	static
+../src/SPI2/SPI.cpp:178:6:void SPI_Borrar_Todo()	8	static
+../src/SPI2/SPI.cpp:191:6:void SPI_Borrar_Bloque(uint32_t)	16	static
+../src/SPI2/SPI.cpp:208:6:void SPI_Reset_SW()	8	static
+../src/SPI2/SPI.cpp:225:6:void SPI_Guardar(uint32_t, uint8_t*, uint32_t)	32	static
+../src/SPI2/SPI.cpp:235:6:void SPI_Guardar_Byte(uint32_t, uint8_t)	16	static
+../src/SPI2/SPI.cpp:266:6:void SPI_Leer(uint32_t, uint8_t*, uint32_t)	40	static
+../src/SPI2/SPI.cpp:296:9:uint8_t SPI_Leer_Configuracion(uint8_t)	32	static
+../src/SPI2/SPI.cpp:311:6:void SPI_Guardar_Configuracion(uint8_t, uint8_t*, uint32_t)	40	static
+../src/SPI2/SPI.cpp:329:6:void SPI_Jedec_ID_Leer()	8	static
+../src/SPI2/SPI.cpp:342:6:void SPI_WriteBlock_Protection()	16	static
+../src/SPI2/SPI.cpp:362:6:void SPI_Wait_Busy()	8	static
+../src/SPI2/SPI.cpp:365:1:void __static_initialization_and_destruction_0(int, int)	16	static
+../src/SPI2/SPI.cpp:365:1:cpp)	8	static

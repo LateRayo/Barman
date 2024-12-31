@@ -1,0 +1,9 @@
+../src/ESP32/esp32.cpp:39:6:void strncpy(uint8_t*, const uint8_t*, size_t)	24	static
+../src/ESP32/esp32.cpp:170:6:void buscarBebidaActivar(uint8_t*)	16	static
+../src/ESP32/esp32.cpp:179:6:void buscarBebida()	176	static
+../src/ESP32/esp32.cpp:256:6:void error()	8	static
+../src/ESP32/esp32.cpp:272:6:void eliminaPedidoActivar()	8	static
+../src/ESP32/esp32.cpp:278:6:void eliminarPedido()	176	static
+../src/ESP32/esp32.cpp:317:6:void cambioDeEstadoEliminar1a0()	8	static
+../src/ESP32/esp32.cpp:320:1:void __static_initialization_and_destruction_0(int, int)	16	static
+../src/ESP32/esp32.cpp:320:1:cpp)	8	static
